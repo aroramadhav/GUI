@@ -1,3 +1,9 @@
 # Modules needed:
-1.) install tkinter with the line: pip install tkinter on your cmd
-2.) install gmsh with the line: pip install gmsh
+## Installation
+
+To set up the project, follow these steps:
+
+1. Install `tkinter` by running the following command in your command prompt:
+
+   ```sh
+   pip install tkinter
