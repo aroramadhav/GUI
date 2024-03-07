@@ -1,0 +1,9 @@
+C:/Users/lenovo/Documents/Qt projects/notepad/Builds/CMakeFiles/notepad.dir
+C:/Users/lenovo/Documents/Qt projects/notepad/Builds/CMakeFiles/edit_cache.dir
+C:/Users/lenovo/Documents/Qt projects/notepad/Builds/CMakeFiles/rebuild_cache.dir
+C:/Users/lenovo/Documents/Qt projects/notepad/Builds/CMakeFiles/list_install_components.dir
+C:/Users/lenovo/Documents/Qt projects/notepad/Builds/CMakeFiles/install.dir
+C:/Users/lenovo/Documents/Qt projects/notepad/Builds/CMakeFiles/install/local.dir
+C:/Users/lenovo/Documents/Qt projects/notepad/Builds/CMakeFiles/install/strip.dir
+C:/Users/lenovo/Documents/Qt projects/notepad/Builds/CMakeFiles/notepad_autogen_timestamp_deps.dir
+C:/Users/lenovo/Documents/Qt projects/notepad/Builds/CMakeFiles/notepad_autogen.dir

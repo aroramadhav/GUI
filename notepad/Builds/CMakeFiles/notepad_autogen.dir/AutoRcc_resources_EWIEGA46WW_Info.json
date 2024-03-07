@@ -1,0 +1,27 @@
+{
+	"BUILD_DIR" : "C:/Users/lenovo/Documents/Qt projects/notepad/Builds/notepad_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/lenovo/Documents/Qt projects/notepad/Builds",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/lenovo/Documents/Qt projects/notepad/Builds",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/lenovo/Documents/Qt projects/notepad",
+	"CMAKE_SOURCE_DIR" : "C:/Users/lenovo/Documents/Qt projects/notepad",
+	"INCLUDE_DIR" : "C:/Users/lenovo/Documents/Qt projects/notepad/Builds/notepad_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/lenovo/Documents/Qt projects/notepad/img/Cut1",
+		"C:/Users/lenovo/Documents/Qt projects/notepad/img/Open1",
+		"C:/Users/lenovo/Documents/Qt projects/notepad/img/Paste1",
+		"C:/Users/lenovo/Documents/Qt projects/notepad/img/New1",
+		"C:/Users/lenovo/Documents/Qt projects/notepad/img/Copy1",
+		"C:/Users/lenovo/Documents/Qt projects/notepad/img/Save1"
+	],
+	"LOCK_FILE" : "C:/Users/lenovo/Documents/Qt projects/notepad/Builds/CMakeFiles/notepad_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.6.2/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/lenovo/Documents/Qt projects/notepad/Builds/CMakeFiles/notepad_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/lenovo/Documents/Qt projects/notepad/resources.qrc",
+	"VERBOSITY" : 0
+}

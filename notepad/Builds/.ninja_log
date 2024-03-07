@@ -1,0 +1,12 @@
+# ninja log v5
+1	685	7313693786502829	notepad_autogen/timestamp	f955c66ea4c01ab4
+1	685	7313693786502829	notepad_autogen/mocs_compilation.cpp	f955c66ea4c01ab4
+1	685	7313693786502829	C:/Users/lenovo/Documents/Qt projects/notepad/Builds/notepad_autogen/mocs_compilation.cpp	f955c66ea4c01ab4
+686	743	7313693787632693	notepad_autogen/EWIEGA46WW/qrc_resources.cpp	ac95c4afb6c6e070
+1	685	7313693786502829	C:/Users/lenovo/Documents/Qt projects/notepad/Builds/notepad_autogen/timestamp	f955c66ea4c01ab4
+686	743	7313693787632693	C:/Users/lenovo/Documents/Qt projects/notepad/Builds/notepad_autogen/EWIEGA46WW/qrc_resources.cpp	ac95c4afb6c6e070
+746	851	7313693788742709	CMakeFiles/notepad.dir/notepad_autogen/EWIEGA46WW/qrc_resources.cpp.obj	53bbbcaed40112fd
+752	2718	7313693807408405	CMakeFiles/notepad.dir/main.cpp.obj	e98971d64fa8186a
+743	2770	7313693807938286	CMakeFiles/notepad.dir/notepad_autogen/mocs_compilation.cpp.obj	23f2b7444d841fa
+749	3069	7313693810928336	CMakeFiles/notepad.dir/mainwindow.cpp.obj	dc0e24bc4dc5fd34
+3070	3227	7313693812458393	notepad.exe	58e123c8130119f

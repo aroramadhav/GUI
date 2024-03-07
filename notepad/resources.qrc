@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/new/imgs">
+        <file>img/Open1</file>
+        <file>img/Copy1</file>
+        <file>img/Cut1</file>
+        <file>img/New1</file>
+        <file>img/Paste1</file>
+        <file>img/Save1</file>
+    </qresource>
+</RCC>
